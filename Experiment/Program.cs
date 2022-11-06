@@ -78,7 +78,7 @@ namespace Experiment
 
     class Program
     {
-        private static int[] tabSizes = new int[] { 10, 1000, 100000 };
+        private static int[] tabSizes = new int[] { 100, 1000, 100000 };
         private static string[] labels = new string[] { "mała", "średnia", "duża" };
 
         static void Main(string[] args)
